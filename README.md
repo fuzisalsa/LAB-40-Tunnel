@@ -43,3 +43,11 @@ IP tunnel adalah kanal jaringan komunikasi Protokol Internet (IP) antara dua jar
 10. kita coba tes di laptop lewat cmd
 
 ![m](j6.PNG)
+
+# keimpulan
+
+tunnel adalh Teknik yang  digunakan untuk menghubungkan dua jaringan secara aman atau virtual, terutama ketika kedua jaringan berada di lokasi yang berbeda secara geografis.
+
+# sumber
+
+https://youtu.be/icnJrQjiUW4?si=FUUvyRla8IwyFnva
