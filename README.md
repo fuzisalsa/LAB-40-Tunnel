@@ -81,3 +81,4 @@ tunnel adalh Teknik yang  digunakan untuk menghubungkan dua jaringan secara aman
 # sumber
 
 https://youtu.be/icnJrQjiUW4?si=FUUvyRla8IwyFnva
+https://id.wikipedia.org/wiki/IP_tunnel
