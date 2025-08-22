@@ -14,11 +14,11 @@ IP tunnel adalah kanal jaringan komunikasi Protokol Internet (IP) antara dua jar
    remote address : ip publik jawa
    klik ok
 
-![m]()
+![m](j1.PNG)
 
 6. jika muncul flag R maka artinya router bali dan jawa sudah terhubung
 
-![m]()
+![m](j2.PNG)
 
 7. lalu kita tambahkan ip address untuk interface ip tunnel bali-jawa
    pilih menu ip > address
@@ -26,17 +26,20 @@ IP tunnel adalah kanal jaringan komunikasi Protokol Internet (IP) antara dua jar
    address : ip yang sudah di berikan router jawa 10.208.10.2
    network : ip address router jawa 10.208.10.1
 
-![m]()
+![m](j3.PNG)
 
 8. lalu coba ping ke router jawa
+
+![m](j5.PNG)
+
 9. lalu kita buatkan routing
    pilih menu ip > routes
    klik (+)
    dst.address adalah ip lan dari router jawa
    gateway : 10.208.10.1
 
-![m]()
+![m](j4.PNG)
 
 10. kita coba tes di laptop lewat cmd
 
-![m]()
+![m](j6.PNG)
